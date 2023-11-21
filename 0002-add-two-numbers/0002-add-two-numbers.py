@@ -23,3 +23,4 @@ class Solution:
             result = ListNode(int(sum[i]), result)
 
         return result
+    
